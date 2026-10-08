@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoetGurke
 - 👀 I’m interested in sleeping.
 - 🌱 I’m currently learning Java and NetworkingStuff.
-- 💞️ I’m looking to collaborate on an Gambling- and CurrencySystem, based on java.
+- 💞️ I’m looking to collaborate on Nothing, because i wanna live in the real world.
 - 📫 How to reach me: on discord: (formerly: "lötGurke#6811") nowadays: "loetgurke"
 
 <!---
